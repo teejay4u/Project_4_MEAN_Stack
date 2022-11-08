@@ -3,7 +3,7 @@
     "activeCommit": 0,
     "commits": [
         {
-            "activePatchIndex": 1,
+            "activePatchIndex": 2,
             "patches": [
                 {
                     "date": 1667930568156,
@@ -12,6 +12,10 @@
                 {
                     "date": 1667939024488,
                     "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,3 +1,5 @@\n # Project_4_MEAN_Stack\n >>### Implementing a Book-registry using Mean_stack module \n \n+### 1. updating and upgrading machine **(sudo apt update / sudo apt upgrade**)\n+![devops](updating application dependencies.png)\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1667940297873,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,5 +1,4 @@\n # Project_4_MEAN_Stack\n >>### Implementing a Book-registry using Mean_stack module \n \n ### 1. updating and upgrading machine **(sudo apt update / sudo apt upgrade**)\n-![devops](updating application dependencies.png)\n\\ No newline at end of file\n"
                 }
             ],
             "date": 1667930568156,
